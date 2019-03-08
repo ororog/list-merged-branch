@@ -1,4 +1,4 @@
-#/bin/sh
+#!/bin/sh
 
 # Space separeted branch list to exclude.
 excludes="master"
